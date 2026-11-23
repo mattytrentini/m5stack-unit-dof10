@@ -1,0 +1,8 @@
+{
+  "version": "0.1.0",
+  "deps": [
+    ["bmi270", "1.0.0"],
+    ["github:SolderedElectronics/Soldered-BMM350-MicroPython-Library", "0995e8d7ce25a5fde9f653ccb13126a2e09f2139"],
+    ["github:mattytrentini/micropython-spa06-003", "96214745e7eab645ae694561c1a2365e29b178ff"]
+  ]
+}
